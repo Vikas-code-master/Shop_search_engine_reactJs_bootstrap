@@ -1,0 +1,14 @@
+.form
+{
+  color: azure;
+  justify-content: center;
+  width: 100%;
+  margin-top: 20px;
+  border: solid 1px red;
+}
+.list
+{
+  border: 2px solid;
+  width: 30%;
+  margin: 4%;
+}
